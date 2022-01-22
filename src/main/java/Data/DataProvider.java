@@ -6,4 +6,9 @@ public class DataProvider {
 
         return "DemoUserAccount";
     }
+
+    public String getPassword() {
+
+        return "DemoUserPassword";
+    }
 }
