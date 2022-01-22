@@ -11,4 +11,9 @@ public class DataProvider {
 
         return "DemoUserPassword";
     }
+
+    public String getKey() {
+
+        return "DemoUserKey";
+    }
 }
